@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Skin lesions image classification**
 
-- 🌱 I’m currently learning **Keras, OpenCV**
+- 🌱 I’m currently learning **Keras, OpenCV, CNN**
 
 - 📫 How to reach me **saltuntas717@gmail.com**
 
