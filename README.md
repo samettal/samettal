@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
-<h2 align="center">A college student interested in Machine Learning.</h2>
-<h3 align="center">Looking for an internship.</h3>
+<h align="center">A college student interested in Machine Learning.
+Looking for an internship.</h3>
 
 - 🔭 I’m currently working on **Skin lesions image classification**
 
