@@ -2,13 +2,11 @@
 <h3 align="center">A college student interested in Machine Learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🔭 I’m currently working on **Skin lesion image classification**
+- 🔭 I’m currently working on **Skin lesions image classification**
 
 - 🌱 I’m currently learning **Keras, OpenCV**
 
 - 📫 How to reach me **saltuntas717@gmail.com**
-
-- ⚡ Fun fact **Apes strong together!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
