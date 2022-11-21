@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samet Altuntas</h1>
-<h3 align="center">A college student interested in Machine Learning, from Turkey!</h3>
+<h3 align="center">A college student interested in Machine Learning.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🔭 I’m currently working on **Skin lesion image classification**
 
@@ -11,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samettal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samettal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samettal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samettal/" height="30" width="40" /></a>
 <a href="https://kaggle.com/samettal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samettal" height="30" width="40" /></a>
 </p>
 
