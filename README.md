@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
-<h align="center">A college student interested in Machine Learning.
+<h align="center">A college student interested in Computer Vision.
 Looking for an internship.</h3>
 
 - 🔭 I’m currently working on **Skin lesions image classification**
